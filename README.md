@@ -2,7 +2,7 @@
 
 this clock changes colors when seconds are divisible by a prime number or 0.
 
-not cool i know but I pinned it to keep working on it to add features like where it is happy hour or 420 or something
+not cool i know, but I pinned it to keep working on it to add features like when it is happy hour or what time it is in australia on button click.
 
 i know super crazy haha
 
